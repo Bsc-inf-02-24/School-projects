@@ -1,1 +1,13 @@
-BSC-INF-02-24
+* commit 96107046ae841fa3c189594c9143257ea30d9e2d
+| Author: Themba Chinkhuntha (Bsc-inf-02-24) <bsc-inf-02-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:28:14 2026 +0200
+| 
+|     Create .gitignore
+|     
+|     Creating an ignore file
+| 
+* commit d01768fbb7b49ace972eb2c461e95e75243560f8
+  Author: bsc-inf-02-24 <bsc-inf-02-24@unima.ac.mw>
+  Date:   Fri Mar 6 10:54:46 2026 +0200
+  
+      My first commit:created the text file with my reg number
